@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.Titulo{
+    background-color: white;
+    width: 100%;
+}
+.Posts{
+    background-color: white;
+    margin: 0 auto;
+}
+.F1{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+/*.Foto1{
+    width: 300px;
+    height: 300px;
+}
+
