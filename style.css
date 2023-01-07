@@ -1,22 +1,27 @@
 body {
     background-color: grey;
-    display: block;
     margin: 0 auto;
     text-align: center;
 }
-.Titulo{
+header{
     background-color: white;
     width: 100%;
 }
-.Posts{
-    background-color: white;
-    margin: 0 auto;
+div.post{
+    width: 600px;
+    margin: auto;
 }
-.F1{
-    margin: 5px;
+div.container{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+div.container img{
+    width: 100%;
+}
+div.container h2, div.container p {
     padding: 5px;
 }
-
 
 
 /*.Foto1{
